@@ -81,7 +81,7 @@ button.cancel {
 }
 
 .icon {
-  min-width: 42px;
+  flex-shrink: 0;
 }
 
 .top {
